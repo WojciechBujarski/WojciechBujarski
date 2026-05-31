@@ -1,4 +1,4 @@
-# Cześć, jestem Wojciech! 👋
+# Cześć, Nazywam się Wojciech! 👋
 
 Jestem studentem 2. roku informatyki ze specjalizacją w tworzeniu gier i aplikacji mobilnych. Szybko przyswajam wiedzę, lubię zamieniać teorię w praktyczne projekty i na bieżąco rozwiązywać problemy programistyczne.
 
