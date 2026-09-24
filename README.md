@@ -12,7 +12,8 @@ Jestem studentem 2. roku informatyki ze specjalizacją w tworzeniu gier i aplika
 
 *   **[System Zarządzania Klientami](https://github.com/WojciechBujarski/System-Zarzadzania-Klientami)** 
     Interaktywna aplikacja CRUD połączona z bazą PostgreSQL, działająca w Google Colab. Interfejs graficzny został zbudowany przy pomocy biblioteki `ipywidgets`.
-
+*   **[Aplikacja na Androida Droga Miłości](https://github.com/WojciechBujarski/aplikacja_Droga_Milosci)**
+    Aplikacja w Kotlinie uruchamiająca jednym kliknięciem nawigację Google Maps pod zapisany adres, z personalizacją zdjęć i imienia.
 ## Kontakt
 
 *   **Email:** bujarskiwojciech2005@gmail.com
